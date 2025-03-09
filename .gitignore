@@ -1,0 +1,17 @@
+Code/
+dconf/
+dlv/
+epiphany/
+evolution/
+gnome-session/
+go/
+goa-1.0/
+gopls/
+gtk-3.0/
+gtk-4.0/
+ibut/
+nautilus/
+procps/
+pulse/
+users-dirs.local/
+vlc/
