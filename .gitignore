@@ -15,3 +15,6 @@ procps/
 pulse/
 users-dirs.local/
 vlc/
+user-dirs.dirs
+user-dirs.locale
+.gsd-keyboard.settings-ported
