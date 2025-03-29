@@ -1,0 +1,141 @@
+"vim.smartRelativeLine": true,
+"editor.cursorSurroundingLines": 8,
+"editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+"vim.leader": "<space>",
+"vim.normalModeKeyBindings": [
+    {
+        "before": [
+            "<leader>",
+            "e"
+        ],
+        "commands": [
+            "workbench.action.toggleSidebarVisibility"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "p",
+            "d"
+        ],
+        "commands": [
+            "editor.action.peekDefinition"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "h"
+        ],
+        "commands": [
+            "editor.action.showDefinitionPreviewHover"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "i"
+        ],
+        "commands": [
+            "editor.action.goToImplementation"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "p",
+            "i"
+        ],
+        "commands": [
+            "editor.action.peekImplementation"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "q"
+        ],
+        "commands": [
+            "editor.action.quickFix"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "r"
+        ],
+        "commands": [
+            "editor.action.referenceSearch.trigger"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "d"
+        ],
+        "commands": [
+            "editor.action.goToTypeDefinition"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "l",
+            "p",
+            "t"
+        ],
+        "commands": [
+            "editor.action.peekTypeDefinition"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "s",
+            "f",
+        ],
+        "commands": [
+            "workbench.action.quickOpen"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "s",
+            "g",
+        ],
+        "commands": [
+            "workbench.action.findInFiles"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "t"
+        ],
+        "commands": [
+            "workbench.action.terminal.toggleTerminal"
+        ]
+    },
+    {
+        "before": [
+            "<leader>",
+            "s",
+            "/"
+        ],
+        "commands": [
+            "actions.find"
+        ]
+    }
+],
+"vim.highlightedyank.enable": true,
+"vim.highlightedyank.color": "#f5a97f",
+"vim.highlightedyank.duration": 250,
+"vim.useSystemClipboard": true
