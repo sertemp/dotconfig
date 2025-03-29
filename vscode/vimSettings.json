@@ -1,3 +1,4 @@
+{
 "vim.smartRelativeLine": true,
 "editor.cursorSurroundingLines": 8,
 "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
@@ -99,7 +100,7 @@
         "before": [
             "<leader>",
             "s",
-            "f",
+            "f"
         ],
         "commands": [
             "workbench.action.quickOpen"
@@ -109,7 +110,7 @@
         "before": [
             "<leader>",
             "s",
-            "g",
+            "g"
         ],
         "commands": [
             "workbench.action.findInFiles"
@@ -139,3 +140,4 @@
 "vim.highlightedyank.color": "#f5a97f",
 "vim.highlightedyank.duration": 250,
 "vim.useSystemClipboard": true
+}
