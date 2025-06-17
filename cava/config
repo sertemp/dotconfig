@@ -1,0 +1,17 @@
+    [general]
+    framerate = 60
+    bars = 12
+    
+    [input]
+    method = pulse
+    source = auto
+    
+    [output]
+    format = raw
+    ascii_max_range = 9
+    
+    [smoothing]
+    noise_reduction = 0.77
+    
+    [color]
+    gradient_presets = green-black

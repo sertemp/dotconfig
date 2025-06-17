@@ -7,13 +7,13 @@ font-size = 10
 background-opacity = 0.9
 window-decoration = false
 
-# keybind = ctrl+j=goto_split:down
-# keybind = ctrl+k=goto_split:up
-# keybind = ctrl+h=goto_split:left
-# keybind = ctrl+l=goto_split:right
+keybind = ctrl+j=goto_split:down
+keybind = ctrl+k=goto_split:up
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+l=goto_split:right
 
-# keybind = ctrl+s=new_split:right
-# keybind = ctrl+v=new_split:down
+keybind = ctrl+s=new_split:right
+keybind = ctrl+v=new_split:down
 
 # This is the configuration file for Ghostty.
 #
@@ -57,4 +57,4 @@ window-decoration = false
 # # Some config options have unique syntaxes for their value,
 # # which is explained in the docs for that config option.
 # # Just for example:
-# resize-overlay-duration = 4s 200ms
+#
